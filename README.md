@@ -14,5 +14,5 @@
   </div>
   
   
-  Apaixonado por técnologia em constante evolução! ✍️
+  Apaixonado por tecnologia em constante evolução! ✍️
 
