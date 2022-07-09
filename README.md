@@ -4,7 +4,7 @@
 ## Olá! Seja bem vindo ao meu GitHub
 
 - 👷 Atualmente trabalho como Analista de suporte
-- ✍️ Focado em adquirir conhecimento em tecnologias relacionadas ao desenvolvimento Front End
+- ✍️ Focado em adquirir conhecimento em tecnologias relacionadas ao desenvolvimento de softwares
 
 
 
